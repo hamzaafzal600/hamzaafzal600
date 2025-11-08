@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: improving mobile game experiences with Unity & C#.<br>🤝 I’m looking to collaborate on: fun, creative game projects that challenge design and mechanics.<br>👐 I’m looking for help with: optimizing game UI flows for better player engagement.<br>🌱 I’m currently learning: advanced shader techniques and scalable game architecture patterns.<br>💬 Ask me about: Unity workflows, mobile game design, and building polished gameplay loops.<br>⚡ Fun fact: I drink coffee like it’s a power-up.<br>
+🔭 I’m currently working on: improving mobile game experiences with Unity & C#.<br>🤝 I’m looking to collaborate on: fun, creative game projects that challenge design and mechanics.<br>🌱 I’m currently learning: advanced shader techniques and scalable game architecture patterns.<br>💬 Ask me about: Unity workflows, mobile game design, and building polished gameplay loops.<br>
 
 
 ## 🌐 Socials:
